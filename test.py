@@ -1,1 +1,3 @@
-test001
+
+if __name__ == 'main':
+    pass
